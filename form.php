@@ -20,5 +20,6 @@ $sur_name=$_POST['sur_name'];
 		<?=$sur_name?>
 		
 	</div>
+	<h1>Rahmat hammaga</h1>
 </body>
 </html>

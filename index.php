@@ -4,6 +4,7 @@ if ($_SERVER['REQUEST_METHOD']=='POST') {
 	$sur_name=$_POST['sur_name'];
 }
 ?>
+
 <!DOCTYPE html>
 <html>
 <head>
