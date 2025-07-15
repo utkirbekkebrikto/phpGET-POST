@@ -1,7 +1,7 @@
 <?php
 
 // setcookie("TestCookie", "nimadir");
-setcookie("user_name", "utkirbek",time()+(5));
+setcookie("user_name", "utkirbek",time()+(5));//bu yerda time()+5 joriy vaqtdan 5 sekund utgacg  cookiedan uchishini bildiradi
 
 // var_dump($_COOKIE);
 ?>
